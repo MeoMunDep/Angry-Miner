@@ -36,8 +36,12 @@ To get started with the bot, follow these steps:
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
   "isDoTasks": true,
-  "isPlayingGames": true
+  "isPlayGames": true,
+  "howManyAGM_percentWantToSwap": 0,
+  "referralCode": "6713068747",
+  "skipInvalidProxy": false
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
