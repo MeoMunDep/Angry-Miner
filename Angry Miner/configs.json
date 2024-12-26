@@ -6,5 +6,6 @@
   "isPlayGames": true,
   "howManyAGM_percentWantToSwap": 0,
   "referralCode": "6713068747",
-  "skipInvalidProxy": false
+  "skipInvalidProxy": false,
+  "delayEachAccount": [1, 81]
 }
