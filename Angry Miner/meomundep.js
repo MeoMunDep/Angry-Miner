@@ -1,1 +1,1 @@
-console.log('Wait me to update another vesion!`)
+console.log('Stop update this game since not updating anything...`)
